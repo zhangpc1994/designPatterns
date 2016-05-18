@@ -1,9 +1,9 @@
-package factory.email;
+package factory.email.email1;
 
 /**
  * Created by XH on 2016/5/18.
  */
-public class SmsSender implements Sender{
+public class SmsSender implements Sender {
     @Override
     public void send(){
         System.out.println("sms发送！");

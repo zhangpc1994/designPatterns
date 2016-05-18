@@ -1,4 +1,4 @@
-package factory.email;
+package factory.email.email1;
 
 /**
  * Created by XH on 2016/5/18.
